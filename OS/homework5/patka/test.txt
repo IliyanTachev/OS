@@ -1,0 +1,16 @@
+$ /home/iliyantachev/Documents/moodle/homework5/patka
+$ combine.c
+homework_v1.zip
+homework.zip
+iliqn.zip
+Makefile
+shell
+test.txt
+$ $ $ combine.c
+homework_v1.zip
+homework.zip
+iliqn.zip
+Makefile
+shell
+test.txt
+$ 
